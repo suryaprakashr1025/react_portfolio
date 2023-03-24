@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+form{
+    padding: 40px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,.1),
+                -1px -1px 5px rgba(0,0,0,.1);
+    border-radius:30px;
+    /* background-image:linear-gradient(to right, rgb(243, 118, 118),rgb(167, 100, 122)) */
+    background-image:linear-gradient(rgb(107, 121, 241),rgb(146, 153, 248))
+} 
+
+form:hover{
+    /* transform: scale(1.1);
+    transition: 1s; */
+}
+
+.btn{
+    
+    background-color: transparent;
+    border:1px solid white !important;
+}

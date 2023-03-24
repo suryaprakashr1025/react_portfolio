@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+
+span{
+    color:blue;
+    font-weight: bold;
+}
+
+p{
+    font-size: 18px;
+}
+
+.homebtn{
+    background-color: rgb(43, 85, 221) !important;
+    color:white ;
+}
+
+.homebtn:hover{
+    background-color: transparent !important;
+    color:rgb(43, 85, 221) !important;
+    border: 1px solid rgb(43, 85, 221) !important;
+    font-weight: bold;
+}

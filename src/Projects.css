@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+
+.card img{
+    height:200px;
+}
+
+.inner{
+    overflow: hidden;
+}
+.card img:hover{
+    transform: scale(1.5);
+    transition: 1s;
+}
+
+.projectbtn{
+    background-color: green !important;
+}
+
+.ptitle{
+    color:blue;
+    font-weight: bold;
+    text-align: center;
+}
+
+.cshadow{
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.5) !important;
+}
+
+.ppara{
+   text-align: justify;
+}

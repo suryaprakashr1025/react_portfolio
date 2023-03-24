@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+#about img{
+    width:25rem;
+    height: 20rem;
+    border-radius: 20px;
+}
