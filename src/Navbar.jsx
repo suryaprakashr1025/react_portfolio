@@ -23,7 +23,7 @@ function Navbar() {
                     <div class="collapse navbar-collapse" id="menu">
                         <ul class="navbar-nav ms-auto mb-lg-0">
                             <li class="nav-item">
-                                <Link to="/home" class="nav-link" href="#home">Home</Link>
+                                <Link to="/" class="nav-link" href="#home">Home</Link>
                             </li>
                             <li class="nav-item">
                                 <Link to="/about" class="nav-link" href="#about">About</Link>

@@ -9,10 +9,10 @@
 .inner{
     overflow: hidden;
 }
-.card img:hover{
+/* .card img:hover{
     transform: scale(1.5);
     transition: 1s;
-}
+} */
 
 .projectbtn{
     background-color: green !important;
@@ -30,4 +30,5 @@
 
 .ppara{
    text-align: justify;
+  height: 70px;
 }
