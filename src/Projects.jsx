@@ -57,7 +57,7 @@ function Projects() {
                                     <div style={{ display: "flex", flexDirection: "row", justifyContent: "center" }}>
                                 <a href="https://github.com/suryaprakashr1025/parking_frontend" target="_blank" type="button" class="btn btn-success my-3 projectbtn">FrontEnd</a>
                                 <a href="https://github.com/suryaprakashr1025/Parking_backend" target="_blank"  type="button" class="btn btn-success my-3 projectbtn">BackEnd</a>
-                                <a href="#" type="button" class="btn btn-success my-3 projectbtn">View</a>
+                                <a href="https://master--melodic-taiyaki-72296c.netlify.app" target="_blank" type="button" class="btn btn-success my-3 projectbtn">View</a>
                                 </div>
                             </div>
                         </div>
