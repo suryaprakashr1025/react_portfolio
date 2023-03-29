@@ -32,3 +32,23 @@
    text-align: justify;
   height: 70px;
 }
+
+.inventory{
+    background-color: rgb(236, 135, 52) !important;
+   color:white !important;
+}
+
+.blog{
+    background-color: rgb(135, 34, 230) !important;
+    color:white !important;
+}
+
+.parking{
+    background-color: rgb(8, 131, 18) !important;
+    color:white !important;
+}
+
+.chat{
+    background-color: rgb(96, 107, 212) !important;
+    color:white !important;
+}
