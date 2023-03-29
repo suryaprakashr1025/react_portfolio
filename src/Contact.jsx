@@ -1,6 +1,8 @@
 import React from 'react'
 import "./Contact.css"
 import contact from "./web/contactimg.jpg"
+import call from "./web/call.jpg"
+
 function Contact() {
     return (
 
@@ -61,7 +63,7 @@ function Contact() {
 
                                 </div>
                             </div>
-                            <div class="card col-lg-6 Email" style={{ width: "18rem" }}>
+                            <div class="card col-lg-6 Email mb-2" style={{ width: "18rem" }}>
                                 <div class="card-body text-center">
                                     <h5 class="card-title" >Email</h5>
                                     <hr />
@@ -69,7 +71,7 @@ function Contact() {
 
                                 </div>
                             </div>
-                            <div class="card col-lg-6 Address" style={{ width: "18rem" }}>
+                            <div class="card col-lg-6 Address mb-2" style={{ width: "18rem" }}>
                                 <div class="card-body text-center">
                                     <h5 class="card-title" >Address</h5>
                                     <hr />
@@ -78,6 +80,17 @@ function Contact() {
                                         India</h6>
 
                                 </div>
+                                
+                            </div>
+
+                            <div class="card col-lg-6 linkedin" style={{ width: "18rem" }}>
+                                <div class="card-body text-center">
+                                    <h5 class="card-title" >LinkedIn</h5>
+                                    <hr />
+                                    <h6 class="card-title" style={{cursor:"pointer"}}>https://www.linkedin.com/in/suryaprakashr1025/</h6>
+
+                                </div>
+                                
                             </div>
                         </div>
                     </div>

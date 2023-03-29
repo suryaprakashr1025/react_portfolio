@@ -1,7 +1,7 @@
 import React from 'react'
 import home from "./web/home.png"
 import "./Home.css"
-import resume from "./resume/Resume1.pdf"
+import resume from "./resume/resume.pdf"
 function Home() {
     return (
         <div className='container-fluid col-12'>

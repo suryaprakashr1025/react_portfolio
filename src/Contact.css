@@ -23,7 +23,7 @@ form:hover{
 
 
 #home {
-    padding: 30px 10px;
+    padding: 0px 10px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -43,35 +43,55 @@ form:hover{
  }
  
  #home .Github {
-    background-color: #2427e6;
+    /* background-color:rgb(248, 83, 77); */
+    background-image:linear-gradient(rgb(153, 56, 11),rgb(240, 90, 21));
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; 
     color: white;
     border: none;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
  }
  
  #home .Phone {
-    background-color: rgb(226, 88, 33);
+    /* background-color: rgb(226, 88, 33); */
+    background-image:linear-gradient(rgb(228, 75, 139),rgb(243, 75, 75));
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; 
     color: white;
     border: none;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
  }
  
  #home .Email {
-    background-color: rgb(122, 182, 25);
+    /* background-color: rgb(122, 182, 25); */
+    background-image:linear-gradient(rgb(156, 68, 17),rgb(221, 148, 89));
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; 
     color: white;
     border: none;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
  }
  
  #home .Address {
-    background-color: #af7a08;
+    /* background-color: #d10d4e; */
+    background-image:linear-gradient(rgb(88, 98, 235),rgb(49, 48, 117));
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; 
     color: white;
     border: none;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
  }
  
- #home .Student {
-    background-color: rgb(248, 83, 77);
+ #home .linkedin {
+    /* background-color:  #823cd3 ; */
+    background-image:linear-gradient(rgb(235, 94, 216),rgb(112, 33, 46));
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; 
     color: white;
     border: none;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
