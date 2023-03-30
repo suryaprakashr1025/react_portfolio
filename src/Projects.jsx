@@ -15,12 +15,12 @@ function Projects() {
                             <div class="card-body text-center">
                                 <div className='col-lg-12'>
                                     <div className='row'>
-                                        <h5 class="card-title"  style={{ fontWeight:"bold",}}>Inventory Billing App</h5>
+                                        <h5 class="card-title" style={{ fontWeight: "bold", }}>Credentials</h5>
                                         <hr />
 
                                         <div className='col-lg-12'>
-                                            <h5 style={{ fontWeight:"bold",}}>Admin, User</h5>
-                                            <hr />
+                                            {/* <h5 style={{ fontWeight: "bold", }}>Admin, User</h5>
+                                            <hr /> */}
                                             <h6 class="card-title" >Username: surya</h6>
                                             <h6 class="card-title" >Password: surya123</h6>
                                         </div>
@@ -31,73 +31,7 @@ function Projects() {
 
                             </div>
                         </div>
-
-                        <div class="card col-lg-4 mb-2 Github mx-2 blog" style={{ width: "18rem"}}>
-                            <div class="card-body text-center">
-                                <div className='col-lg-12'>
-                                    <div className='row'>
-                                        <h5 class="card-title" style={{ fontWeight:"bold",}}>Blog App</h5>
-                                        <hr />
-
-                                        <div className='col-lg-12'>
-                                            <h5 style={{ fontWeight:"bold",}}>Admin, User</h5>
-                                            <hr />
-                                            <h6 class="card-title" >Username: surya</h6>
-                                            <h6 class="card-title" >Password: surya123</h6>
-                                        </div>
-                                        
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-                        </div>
-
-                        <div class="card col-lg-4 mb-2 Github mx-2 parking" style={{ width: "18rem"}}>
-                            <div class="card-body text-center">
-                                <div className='col-lg-12'>
-                                    <div className='row'>
-                                        <h5 class="card-title" style={{ fontWeight:"bold",}}>Parking App</h5>
-                                        <hr />
-
-                                        <div className='col-lg-12'>
-                                            <h5 style={{ fontWeight:"bold",}}>Admin, User</h5>
-                                            <hr />
-                                            <h6 class="card-title" >Username: surya</h6>
-                                            <h6 class="card-title" >Password: surya123</h6>
-                                        </div>
-                                        
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-                        </div>
-
-                        <div class="card col-lg-4 mb-2 Github mx-2 chat" style={{ width: "18rem"}}>
-                            <div class="card-body text-center">
-                                <div className='col-lg-12'>
-                                    <div className='row'>
-                                        <h5 class="card-title" style={{fontWeight:"bold",}}>Chat App</h5>
-                                        <hr />
-
-                                        <div className='col-lg-12'>
-                                            <h5 style={{ fontWeight:"bold",}}>Admin, User</h5>
-                                            <hr />
-                                            <h6 class="card-title">Username: surya</h6>
-                                            <h6 class="card-title" >Password: surya123</h6>
-                                        </div>
-                                        
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
+                  </div>
 
                     {/* <h1 class="text-center">Projects</h1> */}
                     <div class="col-md-4 my-4">
@@ -171,6 +105,7 @@ function Projects() {
             </section>
 
         </div>
+        // https://app.enhancv.com/resume/6423d68e7be29b005031f335
     )
 }
 
