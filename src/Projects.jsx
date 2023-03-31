@@ -105,7 +105,7 @@ function Projects() {
             </section>
 
         </div>
-        // https://app.enhancv.com/resume/6423d68e7be29b005031f335
+      
     )
 }
 
