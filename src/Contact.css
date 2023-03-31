@@ -96,3 +96,71 @@ form:hover{
     border: none;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
  }
+
+
+.e {
+   display: none;
+}
+
+ .g {
+   display: none;
+}
+
+.l {
+   display: none;
+}
+
+ .mail:hover+.e{
+   display: block !important;
+   font-size: 12px;
+   color: black;
+   position: relative;
+   top: 5;
+   width: fit-content;
+   z-index: 200;
+   text-align: center;
+ }
+
+ .git:hover+.g{
+
+   display: block !important;
+   font-size: 12px;
+   color: black;
+   position: relative;
+   top: 5;
+   width: fit-content;
+   z-index: 200;
+   text-align: center;
+ }
+
+ .linked:hover+.l{
+   display: block !important;
+   font-size: 12px;
+   color: black;
+   position: relative;
+   top: 5;
+   width: fit-content;
+   z-index: 200;
+   text-align: center;
+ }
+
+
+ @media screen and (min-width:300px) and (max-width:550px){
+   #home{
+      padding: 0px 0px;
+      display: flex;
+      flex-direction: column !important;
+      justify-content: center !important;
+      align-items: center !important;
+   }
+   .contactimg{
+     
+      width: 100%;
+    
+     
+   }
+
+   .con{
+         padding: 20px !important;
+   }
+ }
