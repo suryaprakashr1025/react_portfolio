@@ -13,7 +13,7 @@ function Home() {
                         <p class="my-lg-2 my-3" style={{ textAlign: 'justify'}}>I have completed mern stack development course.
                             Well trained in React js, node js, mongodb. I am interested in developing web application using my programming and technical skills. I am currently looking for a suitable job in React js, node js, mongodb.</p>
                         <div>
-                            <a class="btn btn-primary my-lg-3 my-3 homebtn" target="_blank" href={resume} style={{ width: "fitcontent" }}>Resume</a>
+                            <a class="btn btn-primary my-lg-3 my-3 homebtn" target="_blank" href="https://drive.google.com/file/d/1i9XNNKfOjkOxdBG20RhNNE1X4JsNSbw_/view?usp=share_link" style={{ width: "fitcontent" }}>Resume</a>
                         </div>
 
                     </div>
